@@ -33,7 +33,7 @@ A full-stack application designed to manage delivery requests, optimize routes, 
 
 ## 📬 Contact
 - *Email:* mohamed.ali.amdouni.95@gmail.com  
-- *LinkedIn:* (to be added)  
+- *LinkedIn:* https://www.linkedin.com/in/amdouni-mohamed-ali/
 - *GitHub:* https://github.com/MohamedAli1995  
 
 ---
