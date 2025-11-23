@@ -57,7 +57,9 @@ Maintenance tracking system with automated notifications.
 
 ## 📬 Contact
 📧 Email : *mohamed.ali.amdouni.95@gmail.com*  
+
 🔗 GitHub : **https://github.com/MohamedAli1995**
+
 🔗 LinkedIn : **https://www.linkedin.com/in/amdouni-mohamed-ali/**
 
 ---
