@@ -47,6 +47,7 @@ Web and mobile marketplace with favorites, chat, scheduling and admin dashboard.
 ### 🔸 *Recruitment Management Platform*
 Web platform for managing candidates, interviews & filtering.  
 *Tech:* React, Node.js, MongoDB
+
 ---
 
 ### 🔸 *Vehicle Maintenance Management*
@@ -58,7 +59,7 @@ Maintenance tracking system with automated notifications.
 ## 📬 Contact
 📧 Email : *mohamed.ali.amdouni.95@gmail.com*  
 
-🔗 GitHub : **https://github.com/MohamedAli1995**
+🔗 GitHub : **https://github.com/MohamedAli1995** 
 
 🔗 LinkedIn : **https://www.linkedin.com/in/amdouni-mohamed-ali/**
 
